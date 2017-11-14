@@ -1,3 +1,3 @@
 # dbmoviespiders
-豆瓣电影爬取并分析
-基于Scrapy框架的分布式爬虫
+# 主要爬的tu11.com网站上图片
+# 主要涉及技术Python，Scrap，Redis
